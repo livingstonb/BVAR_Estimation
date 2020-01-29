@@ -1,0 +1,9 @@
+input
+output
+*.mat
+**/__pycache__
+*sublime-workspace
+.DS_Store
+
+.pdf
+.tex
